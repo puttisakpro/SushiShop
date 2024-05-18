@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+
+    
+}
+.nav4{
+    list-style-type: none;
+   
+}
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+.nat2{
+    display: flex;
+    justify-content: center;
+   
+    
+}
+.wt40{
+    width: 40%;
+}
+
+.wt25{
+    width: 25%;
+    margin: 0px 50px;
+}
+.nav3{
+    width: 950px;
+    margin:  auto ;
+
+}
+.pic22{
+    height: 180px;
+    width: 260px;
+    margin: 10px;
+}
+.pic23{
+    height: 120px;
+    width: 150px;
+}
+
+.logo{
+    width: 10rem;
+    height: 10rem;
+}
+.logo2{
+    width: 15rem;
+    height: 15rem;
+}
+.logo3{
+    text-decoration: none;
+}
+.conten2{
+    margin: 0 auto;
+}
+.conten3{
+    margin:  auto ;
+}
+.logo2{
+    display: flex;
+    flex-direction:row;
+    list-style-type:none;
+}
+.logo3{
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    list-style-type:none;
+}
+.logo4{
+    height: 10px;
+}
+.logo5{
+    height: 10px;
+}
+.pic{
+    height:35rem;
+    width:50rem; 
+    padding:3rem; 
+
+   
+}
+.pic4{
+    height: 600px;
+}
+.pic5{
+    width: 45%;
+}
+.footer{
+    list-style-type: none;
+    text-align: center
+}
+.footer2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type:none;
+}
+.footer22{
+    display: flex;
+    flex-direction: column;
+    list-style-type:none;
+}
+.footer3{
+    width: 25.0%;
+    height: 15rem;
+    align-items: center;
+
+}
+
+.footer4{
+    text-align: center;
+}
+.footer5{
+    width: 20.0%;
+    
+}
+.menu{
+    width: 30%;
+    float: left;
+    text-align: right;
+}
+.menu2
+{
+    width: 65%;
+    float: right;
+    
+}
+.menu3{
+    padding: 10px;
+    margin: 10px;
+
+}
+.menu4{
+   
+    margin: 0 50px;
+
+}
+.market
+{
+    background-color: bisque;
+     width:75px; height:200px; position:fixed;
+    top: 50%;
+    right: 0;
+    border-radius: 15px;
+}
+.market2{
+    border-radius: 50px;
+    text-align: center;
+    width: 20px;
+    background-color: red;
+    position: absolute;
+    margin-left: 13px;
+    top: 37px;
+    z-index: 9999;
+}
+.container3 {
+    width: 960px;
+    margin: 0 auto;
+    
+}
+
+.left {
+    width: 45%;
+    float: left;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.right {
+    width: 55%;
+    float: left;
+    background-color: lightgreen;
+    padding: 20px;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
